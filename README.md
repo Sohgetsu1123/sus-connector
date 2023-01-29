@@ -17,3 +17,9 @@
 # 二次利用について
 
 本ツールの二次利用に特別な許可は不要ですが、いかなる用途であったとしても前述の連絡先に利用する旨の報告をしたのち、利用してください。
+
+# 参考サイト
+
+[1]sus形式-sus-analyzer ( https://mizucoffee.github.io/sus-analyzer/sus/ )
+
+[2]SUS フォーマット v2.7 仕様 ( https://gist.github.com/kb10uy/c171c175ba913dc40a73c6ce69da9859 )
